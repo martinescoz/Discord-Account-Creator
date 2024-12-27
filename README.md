@@ -31,5 +31,4 @@ you can purchase working version @ https://shop.vast.sh
 
 ---
 
-### ⚙️ Installation
-
+### ⚙️ Installati
