@@ -26,5 +26,4 @@
 publish date: 6/20/2023
 
 this version is patched.
-you can purchase working version @ https://shop.vast.sh
-<
+you can purchase working version @ https://shop.vast.
