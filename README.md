@@ -72,5 +72,3 @@ you can purchase working version @ https://shop.vast.sh
 - This was a quick project that was made for fun, so if you want to see further updates, star the repo & create an "issue" [here](https://github.com/imvast/Discord-Account-Creator/issues/new/choose)
 
 ---
-
-##
