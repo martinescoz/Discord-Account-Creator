@@ -18,4 +18,4 @@ showLockd = false
 
 [ captcha ]
 service  = "CAPSOLVER"
-capKey   = 'CAI-B84C18E3DC
+capKey   = 'CAI-B84C18
