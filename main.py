@@ -270,4 +270,4 @@ class Discord:
 
             if CONFIG_addPFP:
                 pfpres = profile.AddPFP()
-                if pfpres.status_code == 2
+                if pfpres.status_code 
