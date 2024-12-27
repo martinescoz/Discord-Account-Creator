@@ -3,4 +3,4 @@ tls-client
 terminut
 colored
 colorama
-veilc
+v
