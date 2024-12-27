@@ -294,4 +294,4 @@ if __name__ == "__main__":
     CONFIG_addBio    = PROFILE['addBio']
     
     DATA              = config['data']
-    CONFIG_uname      = DATA['username']
+    CONFIG_uname      = DATA['userna
