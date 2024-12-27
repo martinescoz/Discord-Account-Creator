@@ -52,4 +52,4 @@ you can purchase working version @ https://shop.vast.sh
 - Undetected Client
 - Ultra HIGH Proxy Usage
 - OPTION: Enable DEV Mode
-- OPTI
+- 
