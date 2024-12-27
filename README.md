@@ -48,4 +48,3 @@ you can purchase working version @ https://shop.vast.sh
 - Decent Speeds
 - Simple & Easy To Setup
 - Creates UNLOCKED ACCOUNTS
-- J
