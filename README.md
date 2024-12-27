@@ -49,4 +49,4 @@ you can purchase working version @ https://shop.vast.sh
 - Simple & Easy To Setup
 - Creates UNLOCKED ACCOUNTS
 - Joins server even if they are locked. (member boosting setting)
-- Undetec
+- Und
