@@ -5,5 +5,4 @@ colored
 colorama
 veilcord
 requests
-toml
-ht
+tom
