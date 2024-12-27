@@ -16,5 +16,4 @@ debug     = true
 showLockd = false
 
 
-[ captcha ]
-s
+[ captcha
