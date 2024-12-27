@@ -268,4 +268,4 @@ class Discord:
                         humanizer += ", "
                     humanizer += "DEVMODE"
 
-            if CONFIG_ad
+            if CONFI
