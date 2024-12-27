@@ -309,4 +309,4 @@ if __name__ == "__main__":
 
     print(f"""
         {a}┬  ┬  ┌─┐  ┌─┐  ┌┬┐
-        {b}└┐┌┘  ├─┤  └─┐   │    (free version
+        {b}└┐┌┘  ├─┤  └─┐   │    (free ver
