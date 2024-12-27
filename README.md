@@ -37,4 +37,4 @@ you can purchase working version @ https://shop.vast.sh
 - Install the requirements: `pip install -r requirements.txt`
 - Add your proxies to `proxies.txt`
 - Edit the `config.toml` to your preference
-- Start: `python3 m
+- Start: `pytho
