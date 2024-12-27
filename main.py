@@ -276,5 +276,3 @@ class Discord:
                     humanizer += "PFP"
 
             Console.printf(f"{humanizer})")
-
-  
