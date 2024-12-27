@@ -36,4 +36,4 @@ you can purchase working version @ https://shop.vast.sh
 - Requires: `Python 3.10+`
 - Install the requirements: `pip install -r requirements.txt`
 - Add your proxies to `proxies.txt`
-- Edit 
+- E
