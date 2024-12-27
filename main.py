@@ -314,4 +314,4 @@ if __name__ == "__main__":
     """ + r)
     
     try:
-        Thread(target=ConsoleX.
+        Thread(target=Conso
