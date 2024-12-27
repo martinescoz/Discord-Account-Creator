@@ -54,4 +54,4 @@ you can purchase working version @ https://shop.vast.sh
 - OPTION: Enable DEV Mode
 - OPTION: Add BIO
 - OPTION: Add PFP
-- OPTION: Add Random H
+- OPTION: Add Rand
