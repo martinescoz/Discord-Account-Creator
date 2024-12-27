@@ -267,4 +267,3 @@ class Discord:
                     if CONFIG_addBio or CONFIG_addHype:
                         humanizer += ", "
                     humanizer += "DEVMODE"
-
