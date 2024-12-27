@@ -77,4 +77,4 @@ you can purchase working version @ https://shop.vast.sh
 
 ```diff
 v0.0.1 ⋮ 4/9/2023
-! Initial rele
+! Initial 
