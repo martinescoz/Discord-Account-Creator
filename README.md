@@ -67,4 +67,4 @@ you can purchase working version @ https://shop.vast.sh
 
 ### ❗ Disclaimers
 
-- I am not responsible for anything that 
+- I am not responsible for anything t
