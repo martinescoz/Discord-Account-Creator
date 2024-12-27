@@ -306,5 +306,3 @@ if __name__ == "__main__":
     b = fg("#7c7cf8")
     c = fg("#3e3ef8")
     r = attr(0)
-
-  
