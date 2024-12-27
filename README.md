@@ -83,4 +83,4 @@ v0.0.1 ⋮ 4/9/2023
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/imvast/Discord-Account-Creator.sv
+  <img src="https://img.shields.io/github/license/imvast/Discord-Account-Creato
