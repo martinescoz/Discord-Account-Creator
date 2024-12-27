@@ -29,6 +29,4 @@ this version is patched.
 you can purchase working version @ https://shop.vast.sh
 </h3>
 
----
-
-#
+--
