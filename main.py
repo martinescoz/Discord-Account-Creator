@@ -287,4 +287,3 @@ class Discord:
 if __name__ == "__main__":
     config = load('config.toml')
     
-    
