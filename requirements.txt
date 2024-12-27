@@ -4,4 +4,3 @@ terminut
 colored
 colorama
 veilcord
-requ
