@@ -300,4 +300,4 @@ if __name__ == "__main__":
     CONFIG_debug      = DATA['debug']
     CONFIG_showLock   = DATA['showLockd']
 
-    sy
+  
