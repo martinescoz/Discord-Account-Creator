@@ -9,5 +9,4 @@ addBio    = true
 
 
 [ data ]
-username  = "" # blank = random
-jo
+username  = "" # blank = rando
