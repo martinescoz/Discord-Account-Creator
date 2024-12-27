@@ -289,4 +289,4 @@ if __name__ == "__main__":
     
     PROFILE          = config['profile']
     CONFIG_enableDev = PROFILE['enableDev']
-    CONFI
+    C
