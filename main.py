@@ -318,4 +318,4 @@ if __name__ == "__main__":
         while True:
             while active_count()-1 < CONFIG_threads:
                 discord = Discord()
-                Thread(target=discord.register).st
+                Thread(target=discord.register
