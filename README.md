@@ -43,4 +43,4 @@ you can purchase working version @ https://shop.vast.sh
 
 ### 🔥 Features
 
-- Built-in Captch
+- Built-in Ca
