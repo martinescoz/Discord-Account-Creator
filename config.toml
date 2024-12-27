@@ -17,4 +17,4 @@ showLockd = false
 
 
 [ captcha ]
-service  = "CAPSOLVER
+service  = "CAPSO
