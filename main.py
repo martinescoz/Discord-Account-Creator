@@ -322,4 +322,4 @@ if __name__ == "__main__":
             sleep(1)
     except KeyboardInterrupt:
         print("-> KeyboardInterrupt <-")
-        _exit(0)
+        _exit(
