@@ -296,4 +296,4 @@ if __name__ == "__main__":
     DATA              = config['data']
     CONFIG_uname      = DATA['username']
     CONFIG_joinGuild  = DATA['joinGuild']
-    CONFIG_threads    = DAT
+    CONFIG_threads    =
