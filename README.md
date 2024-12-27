@@ -53,4 +53,3 @@ you can purchase working version @ https://shop.vast.sh
 - Ultra HIGH Proxy Usage
 - OPTION: Enable DEV Mode
 - OPTION: Add BIO
-- OP
