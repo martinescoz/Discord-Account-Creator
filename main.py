@@ -275,4 +275,4 @@ class Discord:
                         humanizer += ", "
                     humanizer += "PFP"
 
-            Console.printf(f"{humaniz
+            Console.printf(f"{hum
