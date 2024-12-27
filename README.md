@@ -45,4 +45,3 @@ you can purchase working version @ https://shop.vast.sh
 
 - Built-in Captcha Solver
 - Slick UI
-- De
