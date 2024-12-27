@@ -321,4 +321,3 @@ if __name__ == "__main__":
                 Thread(target=discord.register).start()
             sleep(1)
     except KeyboardInterrupt:
-    
