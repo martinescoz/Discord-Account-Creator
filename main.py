@@ -279,4 +279,4 @@ class Discord:
 
                 
             return True
-        except Exception as e:
+        except Exception as
