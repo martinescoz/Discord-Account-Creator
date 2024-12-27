@@ -302,5 +302,4 @@ if __name__ == "__main__":
 
     system("cls||clear")
 
-    a = fg("#babaf8")
-   
+    a = fg("#babaf8")
