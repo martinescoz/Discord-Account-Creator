@@ -47,4 +47,4 @@ you can purchase working version @ https://shop.vast.sh
 - Slick UI
 - Decent Speeds
 - Simple & Easy To Setup
-- Creates UNLOCKED ACCO
+- Creates UNLOCKED 
