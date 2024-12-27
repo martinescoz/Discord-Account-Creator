@@ -57,4 +57,3 @@ you can purchase working version @ https://shop.vast.sh
 - OPTION: Add Random Hypesquad
 - OPTION: Join Server
 
----
