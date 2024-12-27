@@ -85,4 +85,4 @@ v0.0.1 ⋮ 4/9/2023
 <p align="center">
   <img src="https://img.shields.io/github/license/imvast/Discord-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
   <img src="https://img.shields.io/github/stars/imvast/Discord-Account-Creator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/t
+  <img src="https://img.shields.io/github/languag
