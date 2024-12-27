@@ -73,4 +73,4 @@ you can purchase working version @ https://shop.vast.sh
 
 ---
 
-### 📜
+##
