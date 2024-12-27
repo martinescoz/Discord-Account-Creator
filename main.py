@@ -272,4 +272,3 @@ class Discord:
                 pfpres = profile.AddPFP()
                 if pfpres.status_code == 200:
                     if CONFIG_addBio or CONFIG_addHype or CONFIG_enableDev:
-  
