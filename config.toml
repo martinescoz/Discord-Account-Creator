@@ -13,4 +13,4 @@ username  = "" # blank = random
 joinGuild = "vast" # invite code ~ blank = dont join
 threads   = 10
 debug     = true
-showLockd = f
+showLockd
