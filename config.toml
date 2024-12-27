@@ -12,4 +12,4 @@ addBio    = true
 username  = "" # blank = random
 joinGuild = "vast" # invite code ~ blank = dont join
 threads   = 10
-debug     = tr
+debug     
