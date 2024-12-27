@@ -51,4 +51,4 @@ you can purchase working version @ https://shop.vast.sh
 - Joins server even if they are locked. (member boosting setting)
 - Undetected Client
 - Ultra HIGH Proxy Usage
-- OPTION: Enable
+- OPTION: En
