@@ -271,4 +271,4 @@ class Discord:
             if CONFIG_addPFP:
                 pfpres = profile.AddPFP()
                 if pfpres.status_code == 200:
-                    if CONFIG_addBio or CONFIG_addHype or CONFIG_en
+                    if CONFIG_addBio or CONFIG_addHype or CONFI
