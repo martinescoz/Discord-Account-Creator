@@ -2,4 +2,4 @@ websocket-client
 tls-client
 terminut
 colored
-colora
+co
