@@ -76,4 +76,4 @@ you can purchase working version @ https://shop.vast.sh
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 4/9/202
+v0.0.1 ⋮ 4/9
