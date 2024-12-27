@@ -307,4 +307,4 @@ if __name__ == "__main__":
     c = fg("#3e3ef8")
     r = attr(0)
 
-    print(f"""
+    print(
