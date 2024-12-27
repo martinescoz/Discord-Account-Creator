@@ -6,4 +6,4 @@ colorama
 veilcord
 requests
 toml
-httpx
+ht
