@@ -282,5 +282,3 @@ class Discord:
         except Exception as e:
             Console.printf(f"(!) ExC: {e}")
 
-
-  
