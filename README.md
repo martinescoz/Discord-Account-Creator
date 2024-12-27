@@ -26,4 +26,4 @@
 publish date: 6/20/2023
 
 this version is patched.
-you can purchase working version @ https://shop.v
+you can purchase working version @ https://sh
