@@ -304,4 +304,3 @@ if __name__ == "__main__":
 
     a = fg("#babaf8")
     b = fg("#7c7cf8")
-    
