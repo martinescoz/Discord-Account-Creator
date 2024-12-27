@@ -280,4 +280,4 @@ class Discord:
                 
             return True
         except Exception as e:
-            Console.pri
+            Console
