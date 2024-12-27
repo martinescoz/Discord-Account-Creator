@@ -280,4 +280,4 @@ class Discord:
                 
             return True
         except Exception as e:
-            Console.printf(f"(!) Ex
+            Console.printf(f"(!
