@@ -34,4 +34,4 @@ you can purchase working version @ https://shop.vast.sh
 ### ⚙️ Installation
 
 - Requires: `Python 3.10+`
-- Install the requirements: `
+- Install the requirement
