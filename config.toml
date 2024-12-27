@@ -11,4 +11,4 @@ addBio    = true
 [ data ]
 username  = "" # blank = random
 joinGuild = "vast" # invite code ~ blank = dont join
-threads   = 1
+threads  
