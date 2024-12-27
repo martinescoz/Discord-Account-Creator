@@ -278,5 +278,4 @@ class Discord:
             Console.printf(f"{humanizer})")
 
                 
-            return True
-   
+            return True
