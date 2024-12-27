@@ -298,4 +298,4 @@ if __name__ == "__main__":
     CONFIG_joinGuild  = DATA['joinGuild']
     CONFIG_threads    = DATA['threads']
     CONFIG_debug      = DATA['debug']
-    CONFIG_show
+    CONFIG_
