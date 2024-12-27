@@ -288,5 +288,4 @@ if __name__ == "__main__":
     config = load('config.toml')
     
     PROFILE          = config['profile']
-    CONFIG_enableDev = PROFILE['enableDev']
- 
+    CONFIG_enableDev = PROFILE['enableDev'
