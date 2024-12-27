@@ -61,4 +61,4 @@ you can purchase working version @ https://shop.vast.sh
 
 ### 🚀 Milestones
 
-- NOT GIVING SUPPORT NOR CUSTOM UPDA
+- NOT GIVING SUPPORT NOR CUSTOM 
