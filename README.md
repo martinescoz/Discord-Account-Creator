@@ -55,4 +55,3 @@ you can purchase working version @ https://shop.vast.sh
 - OPTION: Add BIO
 - OPTION: Add PFP
 - OPTION: Add Random Hypesquad
-- O
