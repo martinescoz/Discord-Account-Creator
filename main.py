@@ -314,4 +314,4 @@ if __name__ == "__main__":
     """ + r)
     
     try:
-        Thread(target=ConsoleX.titleThread).sta
+        Thread(target=ConsoleX.titleThread)
