@@ -268,5 +268,4 @@ class Discord:
                         humanizer += ", "
                     humanizer += "DEVMODE"
 
-            if CONFIG_addPFP:
- 
+            if CONFIG_addPFP
