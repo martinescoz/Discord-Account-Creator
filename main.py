@@ -269,4 +269,4 @@ class Discord:
                     humanizer += "DEVMODE"
 
             if CONFIG_addPFP:
-                pfpres = profile.AddPFP()
+                pfpres = profile.AddP
