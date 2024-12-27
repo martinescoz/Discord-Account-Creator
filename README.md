@@ -50,4 +50,4 @@ you can purchase working version @ https://shop.vast.sh
 - Creates UNLOCKED ACCOUNTS
 - Joins server even if they are locked. (member boosting setting)
 - Undetected Client
-- Ultra HIGH Proxy Usage
+- Ultra HIGH Proxy Us
