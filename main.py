@@ -316,4 +316,4 @@ if __name__ == "__main__":
     try:
         Thread(target=ConsoleX.titleThread).start()
         while True:
-            while active_count()-1 < CONF
+            while active_count()-1 < 
