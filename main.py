@@ -284,4 +284,4 @@ class Discord:
 
 
     
-if __name__ == "
+if __name__ 
