@@ -301,5 +301,3 @@ if __name__ == "__main__":
     CONFIG_showLock   = DATA['showLockd']
 
     system("cls||clear")
-
-  
