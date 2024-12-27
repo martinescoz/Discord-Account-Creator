@@ -265,4 +265,4 @@ class Discord:
                 devres = profile.EnableDevmode()
                 if devres.status_code == 200:
                     if CONFIG_addBio or CONFIG_addHype:
-                        humanizer += 
+                        humanizer
