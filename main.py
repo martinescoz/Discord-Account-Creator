@@ -270,4 +270,4 @@ class Discord:
 
             if CONFIG_addPFP:
                 pfpres = profile.AddPFP()
-                if pfpres.stat
+                if pfpres.
