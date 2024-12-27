@@ -61,6 +61,4 @@ you can purchase working version @ https://shop.vast.sh
 
 ### 🚀 Milestones
 
-- NOT GIVING SUPPORT NOR CUSTOM UPDATES | PURCHASE @ https://shop.vast.sh FOR LIFETIME UPDATES AND BETTER VERSION
-
--
+- NOT GIVING SUPPORT NOR CUSTOM UPDATES | PURCHASE @ https://shop.vast.sh FOR LIFETIME UPDATES AND BETTER VERSIO
